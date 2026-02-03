@@ -1,5 +1,11 @@
 ## Hi there 👋
+**:smile:I'm WeJean 👋**
 
+:blush:I'm a beginner here, hoping to grow and transform in this community.
+
+### 📫 How to reach me
+- 📧 [wejeanlin@gmail.com](mailto:wejeanlin@gmail.com)
+- 📧 [wejeanlin@qq.com](mailto:wejeanlin@qq.com)
 <!--
 **Hi-WeJean/Hi-WeJean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
